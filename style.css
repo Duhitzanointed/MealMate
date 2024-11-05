@@ -1,0 +1,43 @@
+html, body {
+    margin:0;
+    padding:0;
+    background-color: #FFB0B0;
+}
+
+.welcome {
+    display: flex;
+    flex-direction: column;
+    max-width: 320px;
+    margin: 30px auto;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Lobster';
+    color:#FFFFFF;
+    font-size: 60px;
+}
+
+.salad {
+    width: 310px ;
+    margin: 0 auto;
+}
+
+.subtitle {
+    text-align: center;
+    font-family: 'Inter';
+    font-style: italic;
+    margin: 35px;
+    font-size: 21px;
+    color:#FFFFFF;
+}
+
+.btn1 {
+    background-color: #FF8A8A;
+    border: 0;
+    font-family: 'Inter' ;
+    color: #FFFFFF;
+    font-size: 18px;
+    padding: 16px;
+    border-radius: 10px;
+}

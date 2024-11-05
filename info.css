@@ -1,0 +1,38 @@
+html, body {
+    margin:0;
+    padding:0;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    max-width: 320px;
+    margin: 30px auto;
+}
+
+.hero {
+    width:288px;
+    margin:0 auto;
+}
+input {
+    border-color: #EDF1F3;
+    padding: 10px;
+    border-radius: 10px;
+    margin:8px 0;
+}
+h4 {
+    font-family: 'inter';
+    font-size: 12px;
+    color: #6C7278;
+}
+
+.btn2 {
+    background-color: #FF8A8A;
+    border: 0;
+    font-family: 'Inter' ;
+    color: #FFFFFF;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px ;
+}
